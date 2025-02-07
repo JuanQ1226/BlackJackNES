@@ -5,7 +5,7 @@
 This is a Black Jack Game made for a Computer Achitecture course.
 
 # Playing the game
-You can find the latest NES Rom in the bonus folder as `game_blackjack.nes`
+You can find the latest NES Rom in the bonus folder as `game_blackjack.nes`. Or you can download it from the latest release.
 
 # Development
 If you want to see the source code for the game it is all in the `src/game_blackjack.asm` file.
