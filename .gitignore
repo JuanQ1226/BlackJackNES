@@ -1,0 +1,5 @@
+cl65config.json
+src.nes
+.vscode
+
+*.o
