@@ -3,3 +3,6 @@
 
 # About: 
 This is a Black Jack Game made for a Computer Achitecture course.
+
+# Playing the game
+You can find the latest NES Rom in the bonus folder as `game_blackjack.nes`
